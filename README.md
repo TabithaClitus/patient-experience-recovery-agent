@@ -34,6 +34,9 @@ We built an AI-powered agent using Amazon Bedrock that:
 - Anthropic Claude Foundation Model
 - AWS IAM
 
+  ## Architecture Diagram
+![Architecture Diagram](architecture.png)
+
 ## Demo
 A live demonstration of the working agent is provided via a recorded video showing the agent analyzing patient feedback and triggering recovery actions.
 
